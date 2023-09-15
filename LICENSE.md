@@ -4,7 +4,7 @@ Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
 You may obtain a copy of the License at
 
-    http://www.apache.org/licenses/LICENSE-2.0
+    https://www.apache.org/licenses/LICENSE-2.0
 
 Unless required by applicable law or agreed to in writing, software
 distributed under the License is distributed on an "AS IS" BASIS,
@@ -46,7 +46,7 @@ SOFTWARE.
 hakimel/reveal.js @ Commit SHA: 5bdbc2dc7b4c957f6df6540bdccc29e00c2e49a3
 ---
 
-Copyright (C) 2014 Hakim El Hattab, http://hakim.se
+Copyright (C) 2014 Hakim El Hattab, https://hakim.se
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

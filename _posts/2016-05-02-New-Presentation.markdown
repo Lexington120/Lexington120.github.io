@@ -96,7 +96,7 @@ $$ A = \pi r^2 $$
 
 Alt-Click to zoom.
 
-![Description](http://projectpages.github.io/project-pages/img/Logo_Fairy_Tail_right.png)
+![Description](https://Lexington120.github.io/img/Logo_Fairy_Tail_right.png)
 
 {{ page.horizontal }}
 
