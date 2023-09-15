@@ -1,9 +1,9 @@
 ---
 layout: page
 title: "About"
-description: "Why use Project Pages?"
+description: "What is Brain-Dead Reckoning"
 header-img: "img/home-bg.jpg"
 ---
 
-Project Pages is a research blog tool that allows you to quickly show your latest results to an advisor, collaborators or your mom.
+Dead Reckoning is a primitive integration technique that is easy to apply without the assistance of digital technology. Just like the navigators of old, I am trying to meter my progress by approximating my current speed and heading. An attempt to reach where I think I want to be.
 	
