@@ -1,6 +1,6 @@
 # Site settings
 title: Brain-Dead Reckoning
-description: "Test Change"
+description: "Test Change 2"
 url: "https://Lexington120.github.io"
 
 plugins: [jekyll-paginate]
@@ -40,7 +40,7 @@ defaults:
 # Prose Settings
 prose:
   ignore: ['feed.xml', '/stl', '/ply', '/js', '/plugin', '/lib', '/projectors', '_layouts', '/_includes', 'Gruntfile.js', 'package.json', 'proselinks.jsonp', 'ppanchor.matin', '.gitignore', '/search', '/css', '/img', 'favicon.png','_data/*.json','LICENSES.md','README.md','colorscheme.scss','members.html','mentions.html','index.html']
-  siteurl: 'https://braindeadreckoning.com/'
+  siteurl: 'https://Lexington120.github.io/'
   ispp: true
   media: 'img'
   metadata:
@@ -105,7 +105,7 @@ prose:
       - name: "horizontal"
         field:
           element: "hidden"
-          value: </section></section><section markdown="1" data-background="https://braindeadreckoning.com/img/slidebackground.png"><section markdown="1">
+          value: </section></section><section markdown="1" data-background="https://Lexington120.github.io/img/slidebackground.png"><section markdown="1">
       - name: "vertical"
         field:
           element: "hidden"
@@ -113,7 +113,7 @@ prose:
       - name: "slideinit"
         field:
           element: "hidden"
-          value: <section markdown="1" data-background="https://braindeadreckoning.com/img/slidebackground.png"><section markdown="1">
+          value: <section markdown="1" data-background="https://Lexington120.github.io/img/slidebackground.png"><section markdown="1">
       - name: "theme"
         field:
           element: "select"
