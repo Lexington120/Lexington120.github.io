@@ -4,7 +4,7 @@ description: "An Integrated Scientific Blogging Template"
 url: "https://projectpages.github.io"
 
 
-
+plugins: [jekyll-paginate]
 
 # Secondary Parameters
 baseurl: "/project-pages"
