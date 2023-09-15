@@ -1,6 +1,6 @@
 # Site settings
 title: Brain-Dead Reckoning
-description: "Test Change 3"
+description: "Test Change 4"
 url: "https://Lexington120.github.io"
 
 plugins: [jekyll-paginate]
