@@ -97,7 +97,7 @@ Can write the whole post or sections in HTML for very specific needs. [For the a
 
 # Advanced Functionality
 
-Head over to the [documentation page](https://Lexington120.github.io/ppguide/) for tutorials on some basic html formatting and some extensions you can use for cool stuff like interactive 3D visualizations.
+Head over to the [documentation page](https://projectpages.github.io/ppguide/) for tutorials on some basic html formatting and some extensions you can use for cool stuff like interactive 3D visualizations.
 
 ## Color and Alignment
 
