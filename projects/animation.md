@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "Animation"
-description: "Animaiton Project Description"
+description: "Animation Project Description"
 header-img: "img/home-bg.jpg"
 category: animation
 ---
