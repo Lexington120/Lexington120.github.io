@@ -6,7 +6,7 @@ url: "https://Lexington120.github.io"
 plugins: [jekyll-paginate]
 
 # Secondary Parameters
-baseurl: "/home"
+# baseurl: "/home"
 header-img: img/home-bg.jpg
 # headercolor: "#FFFFFF"
 headercolor: "#E78D0C"
