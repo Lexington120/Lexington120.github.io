@@ -1,6 +1,8 @@
 ---
 layout: page
-title: "Does this change the title?"
+# title: "Brain-Dead Reckoning"
+description: "A collection of my work"
+header-img: "img/home-bg.jpg"
 ---
 
 {% for post in paginator.posts %}
@@ -37,4 +39,3 @@ title: "Does this change the title?"
     {% endif %}
 </ul>
 {% endif %}
-
