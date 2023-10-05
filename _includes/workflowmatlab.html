@@ -5,7 +5,7 @@
 <!-- Get Content for This Post and Split at Pound Signs to Find Headers -->
 {% for post in site.posts %}
 	{% if post.title == page.title and post.author == page.author and post.date == page.date %}
-		{% assign text = post.content | newline_to_br | split:"<h" %}
+		{% assign text = post.content | newline_to_br | split:"#" %} <!-- THIS WAS CHANGED TO A '#' -->
 	{% endif %}
 {% endfor %}
 {% assign subcount = text | size | minus:1 %}
