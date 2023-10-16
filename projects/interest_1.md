@@ -1,7 +1,7 @@
 ---
 layout: project
-title: "interest_1"
+title: "Thoughts"
 description: "Interest Description"
 header-img: "img/home-bg.jpg"
-category: interest_1
+category: thoughts
 ---

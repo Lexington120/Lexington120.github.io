@@ -17,4 +17,5 @@ category:  interest_2
 
 ## Subtitle
 
-Text
+Labor and economic sustainability - link to a broader definition of sustainability
+
