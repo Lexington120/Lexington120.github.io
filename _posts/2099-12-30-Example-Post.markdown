@@ -2,7 +2,7 @@
 layout:     post
 title:      New Post
 author:     Brad Greer
-tags: 		post template
+tags: 	   	post template
 subtitle:  	Some Short Description of Post
 category:  interest_2
 ---

@@ -2,7 +2,7 @@
 layout: page
 title: "About"
 description: "What is Brain-Dead Reckoning"
-header-img: "img/home-bg.jpg"
+header-img: "img/home-bg.png"
 ---
 Hello, I am Brad Greer
 

@@ -33,4 +33,4 @@ You don’t need to go through advanced classes to learn how to conduct research
 Need to address high-level research that does depend on advanced knowledge/methods
 Need to address desire to teach advanced individuals
 
-Problem solving for the improvement of the human condition: there is no way to guarantee outcomes, but there are better mechanisms than capitalism to use when deciding what work to do - this ties into responsibility to society and your fellows
+Problem solving for the improvement of the human condition: there is no way to guarantee outcomes, but there are better mechanisms than capitalism to use when deciding what work to do - this ties into responsibility to society and your fellows	

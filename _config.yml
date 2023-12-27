@@ -7,10 +7,10 @@ plugins: [jekyll-paginate]
 
 # Secondary Parameters
 # baseurl: "/home"
-header-img: img/home-bg.jpg
+header-img: img/home-bg.png
 # headercolor: "#FFFFFF"
 headercolor: "#E78D0C"
-logo: /img/logos/Project-Pages-New-Logo-Inverted.png
+logo: /img/logos/BDR_logo_dark_600.png
 
 # Tertiary Parameters
 github_username:  Lexington120
@@ -35,7 +35,7 @@ defaults:
       type: "pages"
     values:
       layout: "project"
-      header-img: "img/home-bg.jpg"
+      header-img: "img/home-bg.png"
 
 # Prose Settings
 prose:
