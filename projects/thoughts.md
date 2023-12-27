@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "Thoughts"
-description: "Interest Description"
+description: "Interesting or Potent Thoughts"
 header-img: "img/home-bg.png"
 category: thoughts
 ---
