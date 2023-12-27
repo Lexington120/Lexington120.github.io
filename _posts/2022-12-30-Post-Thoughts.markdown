@@ -4,7 +4,7 @@ title:      New Post
 author:     Brad Greer
 tags: 	   	post template
 subtitle:  	Some Short Description of Post
-category:  thoughts
+category:   thoughts
 ---
 <!-- Start Writing Below in Markdown -->
 

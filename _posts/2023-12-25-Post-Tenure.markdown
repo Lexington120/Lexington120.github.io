@@ -1,21 +1,16 @@
 ---
 layout:     post
-title:      New Post
+title:      The New Tenure
 author:     Brad Greer
 tags: 		post template
-subtitle:  	Some Short Description of Post
-category:  interest_2
+subtitle:  	How good work will be done post-automation
+category:  	thoughts
 ---
 <!-- Start Writing Below in Markdown -->
 
-# Table of Contents
+# The New Tenure
 
-* TOC
-{:toc}
-
-# Title
-
-## Subtitle
+## Content
 
 Book idea: the new tenure: how financial freedom allows modern creatives to address pressing problems outside of academia (and why academia sucks)
 There are too many clout chasers in academia - the initial point of tenure has been defeated by a massive influx of persons and a shift in the motivation behind science and research (in america?)
@@ -34,3 +29,13 @@ Need to address high-level research that does depend on advanced knowledge/metho
 Need to address desire to teach advanced individuals
 
 Problem solving for the improvement of the human condition: there is no way to guarantee outcomes, but there are better mechanisms than capitalism to use when deciding what work to do - this ties into responsibility to society and your fellows	
+
+While in the Galapagos and learning more about Darwin, it is once again vary palin how a safe and free environment are critical for useful throught and creative and impactful work
+
+Darwin would not have been able to develop his theory without freedom and the educational and monetary resources of his family
+
+As automation eliminates the need for everyone to be traditionally productive, individuals from all walks of life may find themselves in this 'New Tenure'
+
+Along with general humanism, promoting this New Tenure should be central to the impact I wish to make
+
+The resources to be top university-educated are out there for free, however people cannot use this to its full effect - is this because a certain environment and background is required alongside the material?
