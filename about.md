@@ -2,7 +2,7 @@
 layout: page
 title: "About"
 description: "What is BDR for?"
-header-img: "img/home-bg.png"
+header-img: "img/home-bg.jpg"
 ---
 
 I run this site to host content that I care about. This content covers a wide variety of subjects - really anything that I think is interesting or potent.
