@@ -24,11 +24,11 @@ theme:    night # default/beige/blood/moon/night/serif/simple/sky/solarized
 {% assign tags_list = site.tags %}  
   {% if tags_list.first[0] == null %}
     {% for tag in tags_list %} 
-      <a href="#{{ tag }}" style="color: white;">{{ tag | capitalize }}: <span>{{ site.tags[tag].size }}</span></a>
+      <a href="#{{ tag }}" style="color: #E78D0C;">{{ tag | capitalize }}: <span>{{ site.tags[tag].size }}</span></a>
     {% endfor %}
   {% else %}
     {% for tag in tags_list %} 
-      <a href="#{{ tag[0] }}" style="color: white;">{{ tag[0] | capitalize }}: <span>{{ tag[1].size }}</span></a>
+      <a href="#{{ tag[0] }}" style="color: #E78D0C;">{{ tag[0] | capitalize }}: <span>{{ tag[1].size }}</span></a>
     {% endfor %}
   {% endif %}
 {% assign tags_list = nil %}
