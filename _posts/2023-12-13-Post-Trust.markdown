@@ -5,6 +5,8 @@ author:     Brad Greer
 tags: 		post template
 subtitle:  	How we can achieve trust with respect to digital information
 category:   thoughts
+
+theme: night
 ---
 <!-- Start Writing Below in Markdown -->
 
