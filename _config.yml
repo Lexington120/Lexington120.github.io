@@ -1,6 +1,6 @@
 # Site settings
 title: Brain-Dead Reckoning
-description: "A collection of my work- 7"
+description: "Rev 8"
 url: "https://Lexington120.github.io"
 
 plugins: [jekyll-paginate]
@@ -24,7 +24,7 @@ gems: [jekyll-paginate]
 markdown: kramdown
 highlighter: rouge
 permalink: pretty
-paginate: 10
+paginate: 3
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
 # Jekyll Settings

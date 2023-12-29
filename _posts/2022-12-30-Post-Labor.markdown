@@ -2,7 +2,7 @@
 layout:     post
 title:      New Post
 author:     Brad Greer
-tags: 		post template
+tags: 		post
 subtitle:  	Some Short Description of Post
 category:   thoughts
 ---
