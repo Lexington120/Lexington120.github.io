@@ -9,7 +9,14 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="{{ site.baseurl }}/home/">{{ site.title }}</a>
+            {% if page.url contains "home/" %}
+
+            {% else %}
+            <a class="navbar-brand" href="{{ site.baseurl }}/home/">
+                <!-- <img src='{{ site.baseurl }}/favicon.png' alt="Home"> -->
+                Home
+            </a>
+            {% endif %}
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->
