@@ -1,4 +1,4 @@
- ---
+---
 layout:     notebook
 title:      New Notebook
 author:     Ahmet Cecen
