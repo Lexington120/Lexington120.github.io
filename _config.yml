@@ -1,6 +1,6 @@
 # Site settings
 title: Brain-Dead Reckoning
-description: "Rev 8"
+description: ""
 url: "https://Lexington120.github.io"
 
 plugins: [jekyll-paginate]
