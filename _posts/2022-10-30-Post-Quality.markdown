@@ -1,17 +1,34 @@
 ---
 layout:     post
-title:      New Post
+title:      Good Work and the Quality Problem
 author:     Brad Greer
 tags: 		post template
 subtitle:  	Some Short Description of Post
 category:   thoughts
+
+theme: night
 ---
 <!-- Start Writing Below in Markdown -->
 
-# Table of Contents
+# Good Work
 
-* TOC
-{:toc}
+## Subtitle
+
+This post is central to all of my work going forward - define my values and what I believe is required for 'good work'
+
+Humanism - everyone is me and has worth (driving value)
+Courage - vulnerability leads to personal growth
+Inspiration - creativity and passion drive innovation
+Loyalty - commit to and trust the good people around you
+Wellness - healthy body, healthy mind, before all work
+Respect - everyone deserves to be met with open ears and eyes initially
+Awareness - understand how you are influencing everything around you - strive to guarantee a positive impact (relies on knowledge)
+Knowledge - informed decisions are the only responsible decisions
+Ego - you can deal with anything as long as you understand what you are
+Purpose - you are in a position to help others due to your privilege and you must act
+
+Attention + depth = good work
+
 
 # Title
 

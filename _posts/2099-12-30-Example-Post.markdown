@@ -5,6 +5,8 @@ author:     Brad Greer
 tags: 	   	post template
 subtitle:  	Some Short Description of Post
 category:  interest_2
+
+theme: night
 ---
 <!-- Start Writing Below in Markdown -->
 

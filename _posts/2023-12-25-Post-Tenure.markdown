@@ -5,6 +5,8 @@ author:     Brad Greer
 tags: 		post template
 subtitle:  	How good work will be done post-automation
 category:  	thoughts
+
+theme: night
 ---
 <!-- Start Writing Below in Markdown -->
 

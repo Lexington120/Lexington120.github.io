@@ -28,3 +28,8 @@ We can extend this to more complicated information and more complicated editing 
 Much of the digital informaiton that exists today is not menually entered into a computer by a human, but created by a transducer from environmental readings.
 
 We now have at our disposal modern cryptographic techniques that can guarantee certain information in certain contexts. How can we use these techniques to guarantee that information created by transducers can be trusted by even the people that were not involved in the experiment?
+
+How to verify the legitimacy of information: transducers that turn environmental info to digital - in this case audio and visual information with cameras
+Certified footage and audio
+As it's created, information is processed by custom hardware that generates an encrypted signature with a secure private key on hardware, transforming digital data that the transducer has captured
+This digital data can later be used with a public key to ensure that it has not been editied at all after being captured
