@@ -12,7 +12,7 @@ theme: night
 
 # The New Tenure
 
-## Content
+## How good work will be done post-automation
 
 Book idea: the new tenure: how financial freedom allows modern creatives to address pressing problems outside of academia (and why academia sucks)
 There are too many clout chasers in academia - the initial point of tenure has been defeated by a massive influx of persons and a shift in the motivation behind science and research (in america?)
