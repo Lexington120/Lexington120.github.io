@@ -31,7 +31,7 @@ This digital data can later be used with a public key to ensure that it has not 
 
 After discussing with my friend Sam:
 
-The system can never be perfect, so is it better to have more certainty in the entire data set, with some false content that is accepted as 100% true or is it better to have a distrobution of skepticism across the set of data based on factors that have been developed a long time?
+The system can never be perfect, so is it better to have more certainty in the entire data set, with some false content that is accepted as 100% true or is it better to have a distrobution of skepticism across the set of data based on factors that have been developed a long time (current system)? Even if the only result is raising the barrier of spoofing data, is this still valuable and productive?
 
 The system falls apart anyway, even if implemented perfectly. Users know that no system is perfect and that there is a chance that a given piece of content that they are consuming is fake. Even if a crypto module is never broken into successfully and all verified content is actually true, if a user sees something unbelieveable, they will assume that the system has been hacked, rather than be convinced of the video
 
