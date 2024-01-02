@@ -36,3 +36,14 @@ The system can never be perfect, so is it better to have more certainty in the e
 The system falls apart anyway, even if implemented perfectly. Users know that no system is perfect and that there is a chance that a given piece of content that they are consuming is fake. Even if a crypto module is never broken into successfully and all verified content is actually true, if a user sees something unbelieveable, they will assume that the system has been hacked, rather than be convinced of the video
 
 Just because the system falls apart, doesn't mean that it's not marketable. Is this ethical or does it just create more waste for no useful outcome?
+
+
+Book idea:
+In Defense of Flat Earthers
+A book on information theory and how little we can be certain about events happening even a few degrees away from us
+Call to action in local communities
+Flat earthers, theoretically, are very good at questioning things and the essence of what they are doing is a good thing
+People say that you can very easily prove to yourself that the earth is round and not flat a la Galileo, but to be able to ‘trust’ this proof, you also need to trust everything it is built on, essentially requiring you to prove the entire history of mathematical and scientific proofs to yourself before taking a step forward in modern study
+Result: you must trust and make assumptions
+However, there are ways to mitigate error related to false trust
+See if this is a field of study within information theory and do a literature review

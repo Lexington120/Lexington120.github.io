@@ -1,0 +1,21 @@
+---
+layout:     post
+title:      Free Will
+author:     Brad Greer
+tags: 		post template
+subtitle:  	Why there is not free will
+category:   thoughts
+
+theme: night
+---
+<!-- Start Writing Below in Markdown -->
+
+# Free will
+
+## Why there is no free will
+
+On free will
+
+There is no choice - the universe is causal and deterministic
+
+If you choose between a penny and nickel to pick up, and pick up the penny, the nickel was never actually an option. The decision may have seemed random to the human mind because we cannot perceive the inner machinations of our own brains (not even close) and thus we convince ourselves that there was a choice.
