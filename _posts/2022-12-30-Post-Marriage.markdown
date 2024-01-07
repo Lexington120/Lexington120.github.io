@@ -13,3 +13,5 @@ theme: night
 # Marrying Blender and MUJOCO
 
 ## Automating animation with sim
+
+With this marriage, a new workflow will emerge for animators looking to create movement that draws from mocap and simulation while still incorporating the hand of the artist and keyframe interpolation.

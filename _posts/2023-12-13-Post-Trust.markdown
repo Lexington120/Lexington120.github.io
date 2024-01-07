@@ -47,3 +47,5 @@ People say that you can very easily prove to yourself that the earth is round an
 Result: you must trust and make assumptions
 However, there are ways to mitigate error related to false trust
 See if this is a field of study within information theory and do a literature review
+
+Introduce the concept of memory for humans (which everyone should be familiar with) - you can't hold in your head all proofs leading up the the work that you are currently doing - there must be trust at some point.

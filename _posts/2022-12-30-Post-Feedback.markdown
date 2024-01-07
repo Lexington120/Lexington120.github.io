@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      New Post
+title:      Feedback in Charity
 author:     Brad Greer
 tags: 		post
-subtitle:  	Some Short Description of Post
+subtitle:  	Exposing the flow of resources in donations to encourage more of them
 category:   thoughts
 
 theme: night
