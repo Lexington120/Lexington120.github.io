@@ -1,15 +1,16 @@
 # Site settings
 title: Brain-Dead Reckoning
-description: "Test Change 4"
+description: ""
 url: "https://Lexington120.github.io"
 
 plugins: [jekyll-paginate]
 
 # Secondary Parameters
-# baseurl: "/project-pages"
+# baseurl: "/home"
 header-img: img/home-bg.jpg
-headercolor: "#FFFFFF"
-logo: /img/logos/Project-Pages-New-Logo-Inverted.png
+# headercolor: "#FFFFFF"
+headercolor: "#E78D0C"
+logo: /img/logos/BDR_logo_dark_600.png
 
 # Tertiary Parameters
 github_username:  Lexington120
@@ -23,11 +24,10 @@ gems: [jekyll-paginate]
 markdown: kramdown
 highlighter: rouge
 permalink: pretty
-paginate: 10
+paginate: 3
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
 # Jekyll Settings
-
 defaults:
   -
     scope:

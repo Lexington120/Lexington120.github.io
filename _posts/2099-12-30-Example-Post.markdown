@@ -1,10 +1,12 @@
 ---
 layout:     post
 title:      New Post
-author:     Ahmet Cecen
-tags: 		post template
+author:     Brad Greer
+tags: 	   	post template
 subtitle:  	Some Short Description of Post
-category:  project1
+category:  interest_2
+
+theme: night
 ---
 <!-- Start Writing Below in Markdown -->
 

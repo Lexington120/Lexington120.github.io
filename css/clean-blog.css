@@ -7,7 +7,7 @@
 body {
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 20px;
-  color: #404040;
+  color: #cccccc;
 }
 p {
   line-height: 1.5;
@@ -31,11 +31,11 @@ h6 {
   font-weight: 800;
 }
 a {
-  color: #404040;
+  color: #ffffff;
 }
 a:hover,
 a:focus {
-  color: #0085a1;
+  color: #E78D0C;
 }
 a img:hover,
 a img:focus {
@@ -79,7 +79,7 @@ hr.small {
   }
   .navbar-custom .navbar-brand:hover,
   .navbar-custom .navbar-brand:focus {
-    color: rgba(255, 255, 255, 0.8);
+    color: #E78D0C;
   }
   .navbar-custom .nav li a {
     color: white;
@@ -87,7 +87,7 @@ hr.small {
   }
   .navbar-custom .nav li a:hover,
   .navbar-custom .nav li a:focus {
-    color: rgba(255, 255, 255, 0.8);
+    color: #E78D0C;
   }
 }
 @media only screen and (min-width: 1170px) {
@@ -115,18 +115,18 @@ hr.small {
     transition: transform 0.3s;
   }
   .navbar-custom.is-fixed .navbar-brand {
-    color: #404040;
+    color: #000000;
   }
   .navbar-custom.is-fixed .navbar-brand:hover,
   .navbar-custom.is-fixed .navbar-brand:focus {
-    color: #0085a1;
+    color: #E78D0C;
   }
   .navbar-custom.is-fixed .nav li a {
-    color: #404040;
+    color: #000000;
   }
   .navbar-custom.is-fixed .nav li a:hover,
   .navbar-custom.is-fixed .nav li a:focus {
-    color: #0085a1;
+    color: #E78D0C;
   }
   .navbar-custom.is-visible {
     /* if the user changes the scrolling direction, we show the header */
@@ -210,12 +210,12 @@ hr.small {
   }
 }
 .post-preview > a {
-  color: #404040;
+  color: #cccccc;
 }
 .post-preview > a:hover,
 .post-preview > a:focus {
   text-decoration: none;
-  color: #0085a1;
+  color: #E78D0C;
 }
 .post-preview > a > .post-title {
   font-size: 30px;
@@ -235,11 +235,11 @@ hr.small {
 }
 .post-preview > .post-meta > a {
   text-decoration: none;
-  color: #404040;
+  color: #cccccc;
 }
 .post-preview > .post-meta > a:hover,
 .post-preview > .post-meta > a:focus {
-  color: #0085a1;
+  color: #E78D0C;
   text-decoration: underline;
 }
 @media only screen and (min-width: 768px) {
@@ -319,7 +319,7 @@ footer .copyright {
   opacity: 1;
 }
 .floating-label-form-group-with-focus label {
-  color: #0085a1;
+  color: #E78D0C;
 }
 form .row:first-child .floating-label-form-group {
   border-top: 1px solid #eeeeee;
@@ -339,8 +339,8 @@ form .row:first-child .floating-label-form-group {
 }
 .btn-default:hover,
 .btn-default:focus {
-  background-color: #0085a1;
-  border: 1px solid #0085a1;
+  background-color: #E78D0C;
+  border: 1px solid #E78D0C;
   color: white;
 }
 .pager {
@@ -367,26 +367,26 @@ form .row:first-child .floating-label-form-group {
 .pager li > a:hover,
 .pager li > a:focus {
   color: white;
-  background-color: #0085a1;
-  border: 1px solid #0085a1;
+  background-color: #E78D0C;
+  border: 1px solid #E78D0C;
 }
 .pager .disabled > a,
 .pager .disabled > a:hover,
 .pager .disabled > a:focus,
 .pager .disabled > span {
   color: #808080;
-  background-color: #404040;
+  background-color: #cccccc;
   cursor: not-allowed;
 }
 ::-moz-selection {
   color: white;
   text-shadow: none;
-  background: #0085a1;
+  background: #E78D0C;
 }
 ::selection {
   color: white;
   text-shadow: none;
-  background: #0085a1;
+  background: #E78D0C;
 }
 img::selection {
   color: white;
@@ -397,7 +397,7 @@ img::-moz-selection {
   background: transparent;
 }
 body {
-  webkit-tap-highlight-color: #0085a1;
+  webkit-tap-highlight-color: #E78D0C;
 }
 
 div.notepad-index-post-tags {
@@ -415,8 +415,8 @@ div.notepad-index-post-tags {
 	border-radius: 0.125rem;
 	margin-bottom: 0.3125rem; }
 .notepad-index-post-tags a:hover {
-	color: #e51843;
-	border: 0.0625rem solid #e51843; }
+	color: #E78D0C;
+	border: 0.0625rem solid #E78D0C; }
 
 table {
 	width:100%;
