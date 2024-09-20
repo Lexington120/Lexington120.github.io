@@ -3,7 +3,7 @@ layout:     post
 title:      Free Will
 author:     Brad Greer
 tags: 		post template
-subtitle:  	Why there is not free will
+subtitle:  	Evolution of my thoughts on free will
 category:   thoughts
 
 theme: night
@@ -12,10 +12,15 @@ theme: night
 
 # Free will
 
-## Why there is no free will
+## Evolution of my thoughts on free will
 
-On free will
+I firmly believed that there is no ability for choice - that the universe is causal and deterministic.
 
-There is no choice - the universe is causal and deterministic
+Causality was defeated by Einstein's relativity.
 
+Determinism was defeated by Heisenberg's uncertainty.
+
+I had thought:
 If you choose between a penny and nickel to pick up, and pick up the penny, the nickel was never actually an option. The decision may have seemed random to the human mind because we cannot perceive the inner machinations of our own brains (not even close) and thus we convince ourselves that there was a choice.
+
+While this may be wrong, uncertainty is an unintuitive and I cannot explain why it is wrong.
