@@ -5,7 +5,7 @@ layout: default
 <link rel="stylesheet" href="{{"/css/theme/default.css" | prepend: site.baseurl | prepend: site.url| replace: 'default',page.theme}}" id="theme"> <!-- This is where THEME --> 
 
 <!-- Post Header -->
-<header class="intro-header" style="background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}');">
+<header class="intro-header" style="background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}'); background-position: 0 -250px;">
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
@@ -181,7 +181,7 @@ layout: default
 
 <hr>
 
-{% include _comments.html %}
+<!-- {% include _comments.html %} -->
 
-<hr>
+<!-- <hr> -->
 

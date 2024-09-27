@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Feedback in Charity
+title:      Feedback and the Stockpiling Problem
 author:     Brad Greer
 tags: 		post
 subtitle:  	Exposing the flow of resources in donations to encourage more of them
