@@ -7,7 +7,7 @@ plugins: [jekyll-paginate]
 
 # Secondary Parameters
 # baseurl: "/home"
-header-img: img/home-bg.jpg
+header-img: img/home-bg-draw.jpg
 # headercolor: "#FFFFFF"
 headercolor: "#E78D0C"
 logo: /img/logos/BDR_logo_dark_600.png
